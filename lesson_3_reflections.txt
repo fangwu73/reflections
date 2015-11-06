@@ -6,3 +6,6 @@ Fork has the same function as clone, but it is to copy the original repository a
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 In case there is some changes/commits introduced by other people that is unwanted.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe to send emails and descriptions. But it would be hard to make changes when all collaborators want to do something with the code at the same time.
