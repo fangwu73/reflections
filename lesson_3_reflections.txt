@@ -12,3 +12,5 @@ Maybe to send emails and descriptions. But it would be hard to make changes when
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 My collaborator may have made some changes into the master branch, I want to make may changes on top of his/hers. Then I can stay up-to-date with changes others are making by pulling changes into my local master branch or fetch+merge, merge the local master into my branch, push my branch back to the remote, merge my branch into master on GitHub.
+
+You could make your changes directly to the master branch in your fork, but when contributing to a public repository, it’s standard practice to make the changes in a non-master branch within the fork. This way, you can easily keep your master branch up-to-date with master of the original repository, and merge changes from master into your branch when you are ready.
